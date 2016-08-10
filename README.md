@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Black_Friday
 ==============================
 
@@ -49,3 +50,7 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+=======
+# Black_Friday
+Practice Problem on Analytics Vidhya
+>>>>>>> 2a132ddf96b03d13800243606874965f96c5ae8f
