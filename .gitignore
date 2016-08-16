@@ -108,3 +108,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Remove Submissions
+submissions/
+
+# Remove figures
+reports/figures/
